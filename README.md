@@ -1,2 +1,2 @@
-# iven
+# JSpractice
 Created with CodeSandbox
