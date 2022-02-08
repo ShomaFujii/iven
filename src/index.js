@@ -231,3 +231,5 @@
 // const num2 = 10
 // const fee2 = num2 && "何か設定されました";
 // console.log(fee2);
+
+
